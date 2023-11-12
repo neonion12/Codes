@@ -1,1 +1,0 @@
-{"name":"Local: buildings","url":"d:\\CODES\\CODEFORCES\\.cph\\buildings.cpp","tests":[{"id":1699536831521,"input":"5 10\n1 2 3 4 5\n","output":"5\n"},{"id":1699536845565,"input":"1 10\n10","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODES\\CODEFORCES\\.cph\\buildings.cpp","group":"local","local":true}
